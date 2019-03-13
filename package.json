@@ -1,0 +1,19 @@
+{
+  "name": "koa2-exception",
+  "version": "0.1.0",
+  "description": "Node.js koa2 异常处理中间件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/refactoring-now/koa2-exception.git"
+  },
+  "author": "yangkun <godkun666@126.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/refactoring-now/koa2-exception/issues"
+  },
+  "homepage": "https://github.com/refactoring-now/koa2-exception#readme"
+}
